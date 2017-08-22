@@ -1,0 +1,10 @@
+{
+  "name": "testExpress",
+  "version": "0.0.1",
+  "main": "./src/server.js",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.7",
+    "body-parser": "^1.17.2"
+  }
+}
